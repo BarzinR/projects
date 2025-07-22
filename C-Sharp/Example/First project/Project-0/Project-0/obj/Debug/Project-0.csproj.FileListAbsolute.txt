@@ -1,0 +1,7 @@
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\bin\Debug\Project-0.exe.config
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\bin\Debug\Project-0.exe
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\bin\Debug\Project-0.pdb
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\obj\Debug\Project-0.csproj.AssemblyReference.cache
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\obj\Debug\Project-0.csproj.CoreCompileInputs.cache
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\obj\Debug\Project-0.exe
+C:\Users\Barzin\Desktop\VS code\C-Sharp\Example\First project\Project-0\Project-0\obj\Debug\Project-0.pdb
