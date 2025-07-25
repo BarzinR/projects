@@ -1,0 +1,78 @@
+* {
+    direction: rtl;
+}
+
+@media only screen and (min-width: 600px) {
+    .top-nav {
+        box-shadow: 0 3px 30px #222 !important;
+    }
+    #top_actions_section {
+        display: flex !important;
+        align-items: center !important;
+    }
+}
+
+.user-list-item.active .user-list-arrow-down {
+    transform: rotate(180deg);
+}
+
+.user-list-item.active,
+.user-list-item.active .collapsible-header {
+    background-color: rgba(128, 128, 128, 0.438);
+}
+
+table.highlight>tbody>tr:hover {
+    background-color: #90caf9;
+}
+
+.z-depth-6 {
+    box-shadow: 0 -1px 50px #222;
+}
+
+.container {
+    width: 100%;
+}
+
+.add_user_modal_back {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0%;
+    left: 0%;
+    z-index: 999;
+    background-color: #000a;
+    backdrop-filter: blur(2px);
+}
+
+.add_user_modal {
+    position: fixed;
+    height: 70vh;
+    background-color: white;
+    bottom: 0%;
+    z-index: 1000;
+    left: 0%;
+    right: 0%;
+    bottom: -70vh;
+    border-radius: 30px 30px 0 0;
+    transition: all ease 0.5s;
+}
+
+.add_user_modal.show {
+    bottom: 0vh;
+    box-shadow: 0 -3px 50px #222;
+}
+
+.side_nav_link_icon {
+    margin-right: 0% !important;
+    margin-left: 32px !important;
+}
+
+.showcase {
+    z-index: 999;
+}
+
+.user_list_section {
+    height: calc(100vh - 300px);
+    overflow: auto;
+    z-index: 1;
+}
